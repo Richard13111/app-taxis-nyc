@@ -3,7 +3,7 @@
 Pronóstico de demanda con incertidumbre, segmentación de zonas y recomendación de cuántos taxis enviar
 (AIMLF1 · Módulo 2).
 
-- **Integrantes:** _(completar)_
+- **Integrantes:** _(Ricardo Rodriguez Vasquez & Prisy yamileth Martinez Sanchez)_
 - **App (Streamlit Cloud):** _(completar)_
 - **API (Render):** _(completar)_ — documentación en `/docs`
 - **Repositorio:** _(completar)_
